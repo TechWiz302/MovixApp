@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Home.scss"
-import HeroBanner from './heroBanner/heroBanner'
+import HeroBanner from './HeroBanner/HeroBanner'
 import Trending from './Trending/Trending'
 import Popular from './Popular/Popular'
 import TopRated from './TopRated/TopRated'
